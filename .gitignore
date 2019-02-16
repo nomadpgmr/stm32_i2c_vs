@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+# Other Files and folders
+*.bak
+.vscode
+.mbed
+BUILD
